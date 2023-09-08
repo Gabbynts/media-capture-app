@@ -1,0 +1,17 @@
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\MediaCapture.exe.config
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\MediaCapture.exe
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\MediaCapture.pdb
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.csproj.AssemblyReference.cache
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.Form1.resources
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.Properties.Resources.resources
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.csproj.GenerateResource.cache
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.csproj.CoreCompileInputs.cache
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.exe
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.pdb
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.dll
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.Video.DirectShow.dll
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.Video.dll
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.xml
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.Video.xml
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Semester 5\PBKK\MediaCapture\MediaCapture\obj\Debug\MediaCapture.csproj.CopyComplete
